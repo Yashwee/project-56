@@ -1,0 +1,17 @@
+.body{
+    font-family: inherit;
+    font-size: 36px;
+    font-style: italic;
+    text-decoration: underline;
+    background-color: aqua;
+    border-image: 60%;
+    
+}
+.class{
+text-decoration: underline;
+    text-decoration-color: blue;
+    padding-right: 65%;
+    padding-top: 30%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+}
